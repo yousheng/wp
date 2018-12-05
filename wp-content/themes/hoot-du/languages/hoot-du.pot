@@ -1,0 +1,2232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hoot Du\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-27 21:37+0530\n"
+"PO-Revision-Date: 2018-09-27 21:37+0530\n"
+"Last-Translator: Jasin <jasins@wphoot.com>\n"
+"Language-Team: wpHoot <admin@wphoot.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: ../searchform.php:3
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Type Search Term &hellip;"
+msgstr ""
+
+#: ../sidebar-shop.php:24
+#: ../sidebar-shop.php:68
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: ../sidebar-shop.php:26
+#: ../sidebar-shop.php:70
+#, php-format
+msgid "Woocommerce pages have a separate sidebar than the rest of your site. You can add custom widgets from the %1$swidgets screen%2$s in wp-admin.<br /><br />(This widget is only displayed to logged in administrators when there is no widget in the sidebar. Your visitors will not see this text.)"
+msgstr ""
+
+#: ../sidebar.php:25
+#: ../sidebar.php:71
+msgid "Example Widget"
+msgstr ""
+
+#: ../sidebar.php:27
+#, php-format
+msgid "This is an example widget to show how the Primary sidebar looks by default. You can add custom widgets from the %1$swidgets screen%2$s in wp-admin.<br /><br />(This widget is only displayed to logged in administrators when there is no widget in the sidebar. Your visitors will not see this text.)"
+msgstr ""
+
+#: ../sidebar.php:73
+#, php-format
+msgid "This is an example widget to show how the Secondary sidebar looks by default. You can add custom widgets from the %1$swidgets screen%2$s in wp-admin.<br /><br />(This widget is only displayed to logged in administrators when there is no widget in the sidebar. Your visitors will not see this text.)"
+msgstr ""
+
+#: ../hootkit/functions.php:199
+msgid "Default: 5 (posts without a featured image are skipped)"
+msgstr ""
+
+#: ../include/template-helpers.php:477
+msgid "By:"
+msgstr ""
+
+#: ../include/template-helpers.php:484
+msgid "On:"
+msgstr ""
+
+#: ../include/template-helpers.php:491
+msgid "In:"
+msgstr ""
+
+#: ../include/template-helpers.php:497
+msgid "Tagged:"
+msgstr ""
+
+#: ../include/template-helpers.php:498
+msgid "No Tags"
+msgstr ""
+
+#: ../include/template-helpers.php:502
+msgid "With:"
+msgstr ""
+
+#: ../include/template-helpers.php:504
+msgid "0 Comments"
+msgstr ""
+
+#: ../include/template-helpers.php:505
+msgid "1 Comment"
+msgstr ""
+
+#: ../include/template-helpers.php:506
+msgid "% Comments"
+msgstr ""
+
+#: ../include/template-helpers.php:512
+msgid "Edit This"
+msgstr ""
+
+#: ../include/template-helpers.php:598
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: ../include/theme-setup.php:90
+#, php-format
+msgid "Read More %s"
+msgstr ""
+
+#: ../include/theme-setup.php:124
+msgid "HootKit - Widgets &amp; Sliders"
+msgstr ""
+
+#: ../include/theme-setup.php:129
+msgid "Page Builder"
+msgstr ""
+
+#: ../include/theme-setup.php:134
+msgid "Contact Form"
+msgstr ""
+
+#: ../include/theme-setup.php:139
+msgid "Widget Options"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:386
+#: ../include/admin/class-tgm-plugin-activation.php:827
+#: ../include/admin/class-tgm-plugin-activation.php:2533
+#: ../include/admin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:387
+#: ../include/admin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:388
+#: ../include/admin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:934
+#: ../include/admin/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:1121
+#: ../include/admin/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2388
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3509
+#: ../include/admin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3509
+#: ../include/admin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../include/admin/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:86
+msgid "Logo Font (set in 'Typography' section)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:87
+msgid "Heading Font (set in 'Typography' section)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:88
+msgid "Standard Body Font"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:98
+msgid "Demo / Support"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:107
+msgid "Demo"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:109
+msgid "Demo the theme features and options with sample content."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:115
+msgid "Documentation / Support"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:117
+msgid "Get theme related support for both free and premium users."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:123
+msgid "Rate Us"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:126
+#, php-format
+msgid "If you are happy with the theme, please give us a %s rating on wordpress.org. Thanks in advance!"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:142
+msgid "Setup &amp; Layout"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:146
+msgid "Site Layout - Boxed vs Stretched"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:150
+msgid "Boxed layout"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:151
+msgid "Stretched layout (full width)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:157
+msgid "Max. Site Width (pixels)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:161
+msgid "1380px (wide)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:162
+msgid "1260px (normal)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:163
+msgid "1080px (compact)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:169
+msgid "Load Minified Styles and Scripts (when available)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:170
+msgid "Checking this option reduces data size, hence increasing page load speed."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:177
+msgid "Sidebar Layout (Site-wide)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:192
+msgid "Set the default sidebar width and position for your site."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:196
+msgid "Sidebar Layout (for Pages)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:214
+msgid "Sidebar Layout (for single Posts)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:232
+msgid "Disable Sticky Sidebar"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:235
+msgid "Check this if you do not want to display a fixed Sidebar the user scrolls down the page."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:239
+msgid "Widget Margin"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:243
+msgid "(in pixels) Margin space above and below widgets. Leave empty if you dont want to change the default."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:245
+msgid "default: 45"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:254
+msgid "Header"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:258
+#: ../include/admin/menus.php:19
+msgid "Header Area (right of logo)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:262
+msgid "Display Menu"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:263
+msgid "Display Search"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:264
+#: ../include/admin/customizer-options.php:363
+msgid "Custom Text"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:265
+msgid "'Header Side' widget area"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:266
+msgid "None (Logo will get centre aligned)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:272
+msgid "Custom Text instead of Menu"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:275
+msgid "You can use this area to display ads or custom text."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:287
+msgid "Full Width Menu Area (location)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:291
+msgid "Top (above logo)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:292
+msgid "Bottom (below logo)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:293
+msgid "Do not display full width menu (useful if you already have 'menu' selected in 'Header Area' above')"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:299
+msgid "Full Width Menu Area (alignment)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:303
+#: ../include/admin/sidebars.php:151
+msgid "Left"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:304
+#: ../include/admin/sidebars.php:155
+msgid "Right"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:305
+#: ../include/admin/sidebars.php:153
+msgid "Center"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:311
+msgid "Disable Table Menu"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:315
+msgid "Disable Table Menu if you have a lot of Top Level menu items, <strong>and dont have menu item descriptions.</strong>"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:319
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:323
+msgid "Inline - Menu Slide Downs to open"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:324
+msgid "Fixed - Menu opens on the left"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:330
+msgid "[Mobile Menu] Submenu opens on 'Click'"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:334
+msgid "Uncheck this option to make all Submenus appear in 'Open' state. By default, submenus open on clicking (i.e. single tap on mobile)."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:342
+msgid "Logo"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:346
+msgid "Logo Background"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:351
+#: ../include/admin/customizer-options.php:736
+#: ../include/admin/customizer-options.php:793
+#: ../library/enum.php:269
+msgid "None"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:352
+#: ../include/admin/customizer-options.php:495
+msgid "Accent Color"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:358
+msgid "Site Logo"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:362
+msgid "Default Text (Site Title)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:364
+msgid "Image Logo"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:365
+msgid "Image &amp; Default Text (Site Title)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:366
+msgid "Image &amp; Custom Text"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:370
+#, php-format
+msgid "Use %1$sSite Title%2$s as default text logo"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:374
+msgid "Logo Text Size"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:379
+msgid "Tiny"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:380
+msgid "Small"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:381
+msgid "Medium"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:382
+msgid "Large"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:383
+msgid "Huge"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:390
+msgid "Site Title Icon (Optional)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:394
+msgid "Leave empty to hide icon."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:399
+msgid "Site Title Icon Size"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:408
+msgid "Maximum Logo Width"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:413
+msgid "(in pixels)<hr>The logo width may be automatically adjusted by the browser depending on title length and space available."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:415
+msgid "(in pixels)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:422
+msgid "Line Text"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:426
+msgid "Line Size"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:432
+msgid "Line Font"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:440
+msgid "Custom Logo Text"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:443
+msgid "Use &lt;b&gt; and &lt;em&gt; tags in 'Line Text' fields below to emphasize different words. Example:<br /><code>&lt;b&gt;Hoot&lt;/b&gt; &lt;em&gt;Du&lt;/em&gt;</code>"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:445
+msgid "Line 1"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:446
+msgid "Line 2"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:447
+msgid "Line 3"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:448
+msgid "Line 4"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:469
+msgid "Show Tagline"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:470
+msgid "Display site description as tagline below logo."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:483
+msgid "Colors"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:487
+msgid "Site Content Background"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:502
+msgid "Font Color on Accent Color"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:509
+msgid "Contrast Color"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:516
+msgid "Font Color on Contrast Color"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:524
+msgid "Woocommerce Styling"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:529
+#, php-format
+msgid "Looks like you are using Woocommerce. Install %1$sthis plugin%2$s to change colors and styles for WooCommerce elements like buttons etc."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:538
+msgid "Typography"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:542
+msgid "Logo Font (Free Version)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:547
+#: ../include/admin/customizer-options.php:574
+msgid "Standard Font (Fira Sans)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:548
+#: ../include/admin/customizer-options.php:575
+msgid "Alternate Font (Comfortaa)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:549
+#: ../include/admin/customizer-options.php:576
+msgid "Display Font (Oswald)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:550
+#: ../include/admin/customizer-options.php:577
+msgid "Display Font (Patua One)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:551
+#: ../include/admin/customizer-options.php:578
+msgid "Heading Font (Slabo)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:557
+msgid "Logo Font Style"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:562
+#: ../include/admin/customizer-options.php:589
+msgid "Standard"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:563
+#: ../include/admin/customizer-options.php:590
+#: ../library/enum.php:275
+msgid "Uppercase"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:569
+msgid "Headings Font (Free Version)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:584
+msgid "Heading Font Style"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:600
+msgid "Frontpage - Modules"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:605
+msgid "Columns"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:608
+msgid "One Column [100]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:609
+msgid "Two Columns [50 50]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:610
+msgid "Two Columns [33 66]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:611
+msgid "Two Columns [66 33]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:612
+msgid "Two Columns [25 75]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:613
+msgid "Two Columns [75 25]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:614
+msgid "Three Columns [33 33 33]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:615
+msgid "Three Columns [25 25 50]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:616
+msgid "Three Columns [25 50 25]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:617
+msgid "Three Columns [50 25 25]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:618
+msgid "Four Columns [25 25 25 25]"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:622
+msgid "Layout"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:623
+msgid "The fully stretched grid layout is especially useful for displaying full width slider widgets."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:634
+#: ../include/admin/customizer-options.php:685
+#: ../include/admin/customizer-options.php:725
+msgid "Module Background"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:639
+msgid "Frontpage Widget Areas"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:641
+#, php-format
+msgid "<p></p><ul><li>Sort different sections of the Frontpage in the order you want them to appear.</li><li>You can add content to widget areas from the %1$1sWidgets Management screen%2$2s.</li><li>You can disable areas by clicking the 'eye' icon. (This will hide them on the Widgets screen as well)</li></ul>"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:645
+#: ../include/admin/customizer-options.php:705
+msgid "Widget Area A"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:646
+#: ../include/admin/customizer-options.php:706
+msgid "Widget Area B"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:647
+#: ../include/admin/customizer-options.php:707
+msgid "Widget Area C"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:648
+#: ../include/admin/customizer-options.php:708
+msgid "Widget Area D"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:649
+#: ../include/admin/customizer-options.php:697
+#: ../include/admin/customizer-options.php:715
+msgid "Frontpage Content"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:650
+#: ../include/admin/customizer-options.php:709
+msgid "Widget Area E"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:651
+#: ../include/admin/customizer-options.php:710
+msgid "Widget Area F"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:652
+#: ../include/admin/customizer-options.php:711
+msgid "Widget Area G"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:653
+#: ../include/admin/customizer-options.php:712
+msgid "Widget Area H"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:654
+#: ../include/admin/customizer-options.php:713
+msgid "Widget Area I"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:655
+#: ../include/admin/customizer-options.php:714
+msgid "Widget Area J"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:679
+msgid "Title (optional)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:701
+#, php-format
+msgid "The 'Frontpage Content' module in above list will show<ul style='list-style:disc;margin:1em 0 0 2em;'><li>the <strong>'Blog'</strong> if you have <strong>Your Latest Posts</strong> selectd in %1$1sReading Settings%2$2s</li><li>the <strong>Page Content</strong> of the page set as Front page if you have <strong>A static page</strong> selected in %3$3sReading Settings%4$4s</li></ul>"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:733
+msgid "Background Type"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:737
+msgid "Highlight"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:738
+msgid "Color"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:739
+msgid "Image"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:748
+msgid "Background Color (Select 'Color' above)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:753
+msgid "Background Image (Select 'Image' above)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:758
+msgid "Apply Parallax Effect to Background Image"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:773
+msgid "Archives (Blog, Cats, Tags)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:777
+msgid "Archive (Blog) Layout"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:789
+msgid "Post Items Content"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:794
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:795
+msgid "Full Post Content"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:798
+msgid "Content to display for each post in the list"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:802
+msgid "Meta Information for Post List Items"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:803
+msgid "Check which meta information to display for each post item in the archive list."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:807
+#: ../include/admin/customizer-options.php:891
+#: ../include/admin/customizer-options.php:906
+msgid "Author"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:808
+#: ../include/admin/customizer-options.php:892
+#: ../include/admin/customizer-options.php:907
+msgid "Date"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:809
+#: ../include/admin/customizer-options.php:893
+msgid "Categories"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:810
+#: ../include/admin/customizer-options.php:894
+msgid "Tags"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:811
+#: ../include/admin/customizer-options.php:895
+#: ../include/admin/customizer-options.php:908
+msgid "No. of comments"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:817
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:820
+msgid "Number of words in excerpt. Default is 50. Leave empty if you dont want to change it."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:822
+msgid "default: 50"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:827
+msgid "'Read More' Text"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:830
+msgid "Replace the default 'Read More' text. Leave empty if you dont want to change it."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:832
+msgid "default: READ MORE &rarr;"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:841
+msgid "Single (Posts, Pages)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:845
+msgid "Stretch Page Title Area to Full Width"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:850
+msgid "Default (Archives, Blog, Woocommerce etc.)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:851
+msgid "For All Posts"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:852
+msgid "For All Pages"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:853
+msgid "Always override for full width pages (any page which has no sidebar)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:856
+msgid "This is the Page Header area containing Page/Post Title and Meta details like author, categories etc."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:860
+msgid "Display Featured Image (Post)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:864
+#: ../include/admin/customizer-options.php:877
+msgid "Do not display"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:865
+#: ../include/admin/customizer-options.php:878
+msgid "Full width in header (Parallax Effect)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:866
+#: ../include/admin/customizer-options.php:879
+msgid "Beginning of content"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:869
+msgid "Display featured image on a Post page."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:873
+msgid "Display Featured Image (Page)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:882
+msgid "Display featured image on a 'Page' page."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:886
+msgid "Meta Information on Posts"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:887
+msgid "Check which meta information to display on an individual 'Post' page"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:901
+msgid "Meta Information on Page"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:902
+msgid "Check which meta information to display on an individual 'Page' page"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:914
+msgid "Meta Information location"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:918
+msgid "Top (below title)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:919
+msgid "Bottom (after content)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:925
+msgid "Previous/Next Posts"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:926
+msgid "Display links to Prev/Next Post links at the end of post content."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:939
+msgid "WooCommerce (Hoot Du)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:947
+msgid "Total Products per page"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:953
+msgid "Total number of products to show on the Shop page"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:957
+msgid "Product Columns"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:968
+msgid "Number of products to show in 1 row on the Shop page"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:972
+msgid "Sidebar Layout (Woocommerce Shop/Archives)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:988
+msgid "Set the default sidebar width and position for WooCommerce Shop and Archives pages like product categories etc."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:992
+msgid "Sidebar Layout (Woocommerce Single Product Page)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1008
+msgid "Set the default sidebar width and position for WooCommerce product page"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1018
+msgid "Footer"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1022
+msgid "Footer Layout"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1038
+#, php-format
+msgid "You must first save the changes you make here and refresh this screen for footer columns to appear in the Widgets panel (in customizer).<hr> Once you save the settings here, you can add content to footer columns using the %1$sWidgets Management screen%2$s."
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1042
+msgid "Site Info Text (footer)"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1045
+msgid "<!--default-->"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1047
+#, php-format
+msgid "Text shown in footer. Useful for showing copyright info etc.<hr>Use the <code>&lt;!--default--&gt;</code> tag to show the default Info Text.<hr>Use the <code>&lt;!--year--&gt;</code> tag to insert the current year.<hr>Always use %1$sHTML codes%2$s for symbols. For example, the HTML for &copy; is <code>&amp;copy;</code>"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1134
+msgid "Frontpage - Header Image"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1139
+msgid "Site Background Color"
+msgstr ""
+
+#: ../include/admin/customizer-options.php:1141
+msgid "Site Background Image"
+msgstr ""
+
+#: ../include/admin/fonts.php:30
+#: ../include/admin/fonts.php:36
+#: ../include/admin/fonts.php:37
+#: ../include/admin/fonts.php:38
+#: ../include/admin/fonts.php:39
+msgid "on"
+msgstr ""
+
+#: ../include/admin/media.php:40
+msgid "Medium Thumbnail"
+msgstr ""
+
+#: ../include/admin/media.php:50
+msgid "Preview"
+msgstr ""
+
+#: ../include/admin/media.php:60
+msgid "Large Thumbnail"
+msgstr ""
+
+#: ../include/admin/media.php:70
+msgid "Large Preview"
+msgstr ""
+
+#: ../include/admin/media.php:80
+msgid "Wide"
+msgstr ""
+
+#: ../include/admin/media.php:90
+msgid "Extra Wide"
+msgstr ""
+
+#: ../include/admin/menus.php:20
+msgid "Full width Menu Area (below logo)"
+msgstr ""
+
+#: ../include/admin/sidebars.php:32
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../include/admin/sidebars.php:33
+msgid "The main sidebar used throughout the site."
+msgstr ""
+
+#: ../include/admin/sidebars.php:41
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../include/admin/sidebars.php:42
+msgid "The secondary sidebar used throughout the site (if you are using a 3 column layout with 2 sidebars)."
+msgstr ""
+
+#: ../include/admin/sidebars.php:50
+msgid "Topbar Left"
+msgstr ""
+
+#: ../include/admin/sidebars.php:51
+#: ../include/admin/sidebars.php:60
+msgid "Leave empty if you dont want to show topbar."
+msgstr ""
+
+#: ../include/admin/sidebars.php:59
+msgid "Topbar Right"
+msgstr ""
+
+#: ../include/admin/sidebars.php:65
+msgid "This widget area is currently NOT VISIBLE on your site. To activate it, go to Appearance &gt; Customize &gt; Header &gt; 'Header Area' option &gt; Select 'Header Side Widget Area'"
+msgstr ""
+
+#: ../include/admin/sidebars.php:69
+msgid "Header Side"
+msgstr ""
+
+#: ../include/admin/sidebars.php:70
+msgid "Appears in Header on right of logo"
+msgstr ""
+
+#: ../include/admin/sidebars.php:75
+msgid "This widget area is currently NOT VISIBLE on your site. To activate it, go to Appearance &gt; Customize &gt; Header &gt; 'Full Width Menu' option &gt; Select 'Top' or 'Bottom'"
+msgstr ""
+
+#: ../include/admin/sidebars.php:79
+msgid "Full Width Menu - Side"
+msgstr ""
+
+#: ../include/admin/sidebars.php:80
+msgid "This is the tiny area next to menu (often used for displaying search, social icons or breadcrumbs)"
+msgstr ""
+
+#: ../include/admin/sidebars.php:88
+msgid "Below Header Left"
+msgstr ""
+
+#: ../include/admin/sidebars.php:89
+#: ../include/admin/sidebars.php:98
+msgid "This area is often used for displaying context specific menus, advertisements, and third party breadcrumb plugins."
+msgstr ""
+
+#: ../include/admin/sidebars.php:97
+msgid "Below Header Right"
+msgstr ""
+
+#: ../include/admin/sidebars.php:106
+msgid "Sub Footer"
+msgstr ""
+
+#: ../include/admin/sidebars.php:107
+msgid "Leave empty if you dont want to show subfooter."
+msgstr ""
+
+#: ../include/admin/sidebars.php:122
+#, php-format
+msgid "Footer %s Column"
+msgstr ""
+
+#: ../include/admin/sidebars.php:124
+#, php-format
+msgid "This column is currently NOT VISIBLE on your site. To activate it, go to Appearance &gt; Customize &gt; Footer &gt; Select a layout with more than %1$s columns"
+msgstr ""
+
+#: ../include/admin/sidebars.php:152
+msgid "Center Left"
+msgstr ""
+
+#: ../include/admin/sidebars.php:154
+msgid "Center Right"
+msgstr ""
+
+#: ../include/admin/sidebars.php:184
+#, php-format
+msgid "Frontpage - Widget Area %1$s %2$s"
+msgstr ""
+
+#: ../include/admin/sidebars.php:195
+msgid "You can reorder and change the number of columns in Appearance &gt; Customize &gt; Frontpage Modules"
+msgstr ""
+
+#: ../include/admin/upsell.php:19
+#: ../include/admin/trt-customize-pro/class-customize.php:76
+msgid "Hoot Du Premium"
+msgstr ""
+
+#: ../include/admin/upsell.php:20
+msgid "Premium Options"
+msgstr ""
+
+#: ../include/admin/upsell.php:58
+msgid "Buy Hoot Du Premium"
+msgstr ""
+
+#: ../include/admin/upsell.php:59
+msgid "View Demo Site"
+msgstr ""
+
+#: ../include/admin/upsell.php:62
+msgid "Upgrade to <span>Hoot Du <strong>Premium</strong></span>"
+msgstr ""
+
+#: ../include/admin/upsell.php:63
+msgid "If you've enjoyed using Hoot Du, you're going to love <strong>Hoot Du Premium</strong>.<br>It's a robust upgrade to Hoot Du that gives you many useful features."
+msgstr ""
+
+#: ../include/admin/upsell.php:67
+msgid "Complete <br />Style <strong>Customization</strong>"
+msgstr ""
+
+#: ../include/admin/upsell.php:68
+msgid "Different looks and styles. Choose from an extensive range of customization features in Hoot Du Premium to setup your own unique front page. Give youe site the personality it deserves."
+msgstr ""
+
+#: ../include/admin/upsell.php:74
+msgid "Unlimited Colors &amp; Backgrounds for Sections"
+msgstr ""
+
+#: ../include/admin/upsell.php:75
+msgid "Hoot Du Premium lets you select unlimited colors for different parts of your site. Select pre-existing backgrounds for site sections like topbar, header, footer, page title etc. or upload your own background images/patterns."
+msgstr ""
+
+#: ../include/admin/upsell.php:80
+msgid "Fonts and <span>Typography Control</span>"
+msgstr ""
+
+#: ../include/admin/upsell.php:81
+msgid "Assign different typography (fonts, text size, font color) to menu, topbar, logo, content headings, sidebar, footer etc."
+msgstr ""
+
+#: ../include/admin/upsell.php:86
+msgid "Unlimites Sliders, Unlimites Slides"
+msgstr ""
+
+#: ../include/admin/upsell.php:87
+msgid "Hoot Du Premium allows you to create unlimited sliders with as many slides as you need using the awesome HootKit plugin.<hr><h4>Add as Shortcodes</h4>You can use these sliders on your Frontpage, or add them anywhere using shortcodes - like in your Posts, Sidebars or Footer."
+msgstr ""
+
+#: ../include/admin/upsell.php:92
+msgid "600+ Google Fonts"
+msgstr ""
+
+#: ../include/admin/upsell.php:93
+msgid "With the integrated Google Fonts library, you can find the fonts that match your site's personality, and there's over 600 options to choose from."
+msgstr ""
+
+#: ../include/admin/upsell.php:98
+msgid "Image Carousels"
+msgstr ""
+
+#: ../include/admin/upsell.php:99
+msgid "Add carousels to your post, in your sidebar, on your frontpage or in your footer. A simple drag and drop interface allows you to easily create and manage carousels."
+msgstr ""
+
+#: ../include/admin/upsell.php:104
+msgid "Floating <br /><span>'Sticky' Header</span> &amp; <span>'Goto Top'</span> button (optional)"
+msgstr ""
+
+#: ../include/admin/upsell.php:105
+msgid "The floating header follows the user down your page as they scroll, which means they never have to scroll back up to access your navigation menu, improving user experience.<hr>Or, use the 'Goto Top' button appears on the screen when users scroll down your page, giving them a quick way to go back to the top of the page."
+msgstr ""
+
+#: ../include/admin/upsell.php:110
+msgid "One Page <span>Scrolling Website /</span> <span>Landing Page</span>"
+msgstr ""
+
+#: ../include/admin/upsell.php:111
+msgid "Make One Page websites with menu items linking to different sections on the page. Watch the scroll animation kick in when a user clicks a menu item to jump to a page section.<hr>Create different landing pages on your site. Change the menu for each page so that the menu items point to sections of the page being displayed."
+msgstr ""
+
+#: ../include/admin/upsell.php:117
+msgid "Additional Blog Layouts (including pinterest <span>type mosaic)</span>"
+msgstr ""
+
+#: ../include/admin/upsell.php:118
+msgid "Hoot Du Premium gives you the option to display your post archives in different layouts including a mosaic type layout similar to pinterest."
+msgstr ""
+
+#: ../include/admin/upsell.php:123
+msgid "Custom Widgets"
+msgstr ""
+
+#: ../include/admin/upsell.php:124
+msgid "Additional Hootkit Custom widgets crafted and designed specifically for Hoot Du Premium Theme to give you the flexibility of adding stylized content -<hr> Buttons, Carousel Sliders, Carousel Posts Slider, Contact Info, Icon Lists, Notices, Number Blocks, Tabs, Toggles and Vcards among others."
+msgstr ""
+
+#: ../include/admin/upsell.php:129
+msgid "Menu Icons"
+msgstr ""
+
+#: ../include/admin/upsell.php:130
+msgid "Select from over 500 icons for your main navigation menu links."
+msgstr ""
+
+#: ../include/admin/upsell.php:135
+msgid "Premium Background Patterns (CC0)"
+msgstr ""
+
+#: ../include/admin/upsell.php:136
+msgid "Hoot Du Premium comes with many additional premium background patterns. You can always upload your own background image/pattern to match your site design."
+msgstr ""
+
+#: ../include/admin/upsell.php:141
+msgid "Automatic Image Lightbox and <span>WordPress Gallery</span>"
+msgstr ""
+
+#: ../include/admin/upsell.php:142
+msgid "Automatically open image links on your site with the integrates lightbox in Hoot Du Premium.<hr>Automatically convert standard WordPress galleries to beautiful lightbox gallery slider."
+msgstr ""
+
+#: ../include/admin/upsell.php:147
+msgid "Developers <br />love {LESS}"
+msgstr ""
+
+#: ../include/admin/upsell.php:148
+msgid "CSS is passe! Developers love the modularity and ease of using LESS, which is why Hoot Du Premium comes with properly organized LESS files for the main stylesheet."
+msgstr ""
+
+#: ../include/admin/upsell.php:153
+msgid "Easy Import/Export"
+msgstr ""
+
+#: ../include/admin/upsell.php:154
+msgid "Moving to a new host? Or applying a new child theme? Easily import/export your customizer settings with just a few clicks - right from the backend."
+msgstr ""
+
+#: ../include/admin/upsell.php:162
+msgid "Custom Javascript &amp; <span>Google Analytics</span>"
+msgstr ""
+
+#: ../include/admin/upsell.php:163
+msgid "Easily insert any javascript snippet to your header without modifying the code files. This helps in adding scripts for Google Analytics, Adsense or any other custom code."
+msgstr ""
+
+#: ../include/admin/upsell.php:167
+msgid "Continued <br />Lifetime Updates"
+msgstr ""
+
+#: ../include/admin/upsell.php:168
+msgid "You will help support the continued development of Hoot Du - ensuring it works with future versions of WordPress for years to come."
+msgstr ""
+
+#: ../include/admin/upsell.php:175
+msgid "Premium <br />Priority Support"
+msgstr ""
+
+#: ../include/admin/upsell.php:176
+msgid "Need help setting up Hoot Du? Upgrading to Hoot Du Premium gives you prioritized support. We have a growing support team ready to help you with your questions.<hr>Need small modifications? If you are not a developer yourself, you can count on our support staff to help you with CSS snippets to get the look you're after. Best of all, your changes will persist across updates."
+msgstr ""
+
+#: ../include/admin/trt-customize-pro/class-customize.php:78
+msgid "Premium"
+msgstr ""
+
+#: ../library/attr-schema.php:151
+#, php-format
+msgid "%s Sidebar"
+msgstr ""
+
+#: ../library/attr-schema.php:184
+#, php-format
+msgid "%s Menu"
+msgstr ""
+
+#: ../library/attr-schema.php:373
+#: ../library/attr-schema.php:491
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: ../library/enum.php:86
+msgid "No Repeat"
+msgstr ""
+
+#: ../library/enum.php:87
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../library/enum.php:88
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../library/enum.php:89
+msgid "Repeat All"
+msgstr ""
+
+#: ../library/enum.php:105
+msgid "Top Left"
+msgstr ""
+
+#: ../library/enum.php:106
+msgid "Top Center"
+msgstr ""
+
+#: ../library/enum.php:107
+msgid "Top Right"
+msgstr ""
+
+#: ../library/enum.php:108
+msgid "Middle Left"
+msgstr ""
+
+#: ../library/enum.php:109
+msgid "Middle Center"
+msgstr ""
+
+#: ../library/enum.php:110
+msgid "Middle Right"
+msgstr ""
+
+#: ../library/enum.php:111
+msgid "Bottom Left"
+msgstr ""
+
+#: ../library/enum.php:112
+msgid "Bottom Center"
+msgstr ""
+
+#: ../library/enum.php:113
+msgid "Bottom Right"
+msgstr ""
+
+#: ../library/enum.php:129
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../library/enum.php:130
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../library/enum.php:146
+msgid "Predefined Pattern"
+msgstr ""
+
+#: ../library/enum.php:147
+msgid "Custom Image"
+msgstr ""
+
+#: ../library/enum.php:270
+msgid "Italic"
+msgstr ""
+
+#: ../library/enum.php:271
+msgid "Bold"
+msgstr ""
+
+#: ../library/enum.php:272
+msgid "Bold Italic"
+msgstr ""
+
+#: ../library/enum.php:273
+msgid "Light"
+msgstr ""
+
+#: ../library/enum.php:274
+msgid "Light Italic"
+msgstr ""
+
+#: ../library/enum.php:276
+msgid "Uppercase Italic"
+msgstr ""
+
+#: ../library/enum.php:277
+msgid "Uppercase Bold"
+msgstr ""
+
+#: ../library/enum.php:278
+msgid "Uppercase Bold Italic"
+msgstr ""
+
+#: ../library/enum.php:279
+msgid "Uppercase Light"
+msgstr ""
+
+#: ../library/enum.php:280
+msgid "Uppercase Light Italic"
+msgstr ""
+
+#: ../library/enum.php:302
+msgid "Amazon"
+msgstr ""
+
+#: ../library/enum.php:303
+msgid "Android"
+msgstr ""
+
+#: ../library/enum.php:304
+msgid "Apple"
+msgstr ""
+
+#: ../library/enum.php:305
+msgid "Bandcamp"
+msgstr ""
+
+#: ../library/enum.php:306
+msgid "Behance"
+msgstr ""
+
+#: ../library/enum.php:307
+msgid "Bitbucket"
+msgstr ""
+
+#: ../library/enum.php:308
+msgid "BTC"
+msgstr ""
+
+#: ../library/enum.php:309
+msgid "BuySellAds"
+msgstr ""
+
+#: ../library/enum.php:310
+msgid "Codepen"
+msgstr ""
+
+#: ../library/enum.php:311
+msgid "Codie Pie"
+msgstr ""
+
+#: ../library/enum.php:312
+msgid "Contao"
+msgstr ""
+
+#: ../library/enum.php:313
+msgid "Dash Cube"
+msgstr ""
+
+#: ../library/enum.php:314
+msgid "Delicious"
+msgstr ""
+
+#: ../library/enum.php:315
+msgid "Deviantart"
+msgstr ""
+
+#: ../library/enum.php:316
+msgid "Digg"
+msgstr ""
+
+#: ../library/enum.php:317
+msgid "Dribbble"
+msgstr ""
+
+#: ../library/enum.php:318
+msgid "Dropbox"
+msgstr ""
+
+#: ../library/enum.php:319
+msgid "Eercast"
+msgstr ""
+
+#: ../library/enum.php:320
+msgid "Email"
+msgstr ""
+
+#: ../library/enum.php:321
+msgid "Etsy"
+msgstr ""
+
+#: ../library/enum.php:322
+msgid "Facebook"
+msgstr ""
+
+#: ../library/enum.php:323
+msgid "Flickr"
+msgstr ""
+
+#: ../library/enum.php:324
+msgid "Forumbee"
+msgstr ""
+
+#: ../library/enum.php:325
+msgid "Foursquare"
+msgstr ""
+
+#: ../library/enum.php:326
+msgid "Free Code Camp"
+msgstr ""
+
+#: ../library/enum.php:327
+msgid "Pocket (getpocket)"
+msgstr ""
+
+#: ../library/enum.php:328
+msgid "Github"
+msgstr ""
+
+#: ../library/enum.php:329
+msgid "Google"
+msgstr ""
+
+#: ../library/enum.php:330
+msgid "Google Plus"
+msgstr ""
+
+#: ../library/enum.php:331
+msgid "Google Wallet"
+msgstr ""
+
+#: ../library/enum.php:332
+msgid "Houzz"
+msgstr ""
+
+#: ../library/enum.php:333
+msgid "IMDB"
+msgstr ""
+
+#: ../library/enum.php:334
+msgid "Instagram"
+msgstr ""
+
+#: ../library/enum.php:335
+msgid "JS Fiddle"
+msgstr ""
+
+#: ../library/enum.php:336
+msgid "Last FM"
+msgstr ""
+
+#: ../library/enum.php:337
+msgid "Leanpub"
+msgstr ""
+
+#: ../library/enum.php:338
+msgid "Linkedin"
+msgstr ""
+
+#: ../library/enum.php:339
+msgid "Meetup"
+msgstr ""
+
+#: ../library/enum.php:340
+msgid "Mixcloud"
+msgstr ""
+
+#: ../library/enum.php:341
+msgid "Paypal"
+msgstr ""
+
+#: ../library/enum.php:342
+msgid "Pinterest"
+msgstr ""
+
+#: ../library/enum.php:343
+msgid "Quora"
+msgstr ""
+
+#: ../library/enum.php:344
+msgid "Reddit"
+msgstr ""
+
+#: ../library/enum.php:345
+msgid "RSS"
+msgstr ""
+
+#: ../library/enum.php:346
+msgid "Scribd"
+msgstr ""
+
+#: ../library/enum.php:347
+msgid "Skype"
+msgstr ""
+
+#: ../library/enum.php:348
+msgid "Slack"
+msgstr ""
+
+#: ../library/enum.php:349
+msgid "Slideshare"
+msgstr ""
+
+#: ../library/enum.php:350
+msgid "Snapchat"
+msgstr ""
+
+#: ../library/enum.php:351
+msgid "Soundcloud"
+msgstr ""
+
+#: ../library/enum.php:352
+msgid "Spotify"
+msgstr ""
+
+#: ../library/enum.php:353
+msgid "Stack Exchange"
+msgstr ""
+
+#: ../library/enum.php:354
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../library/enum.php:355
+msgid "Steam"
+msgstr ""
+
+#: ../library/enum.php:356
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../library/enum.php:357
+msgid "Trello"
+msgstr ""
+
+#: ../library/enum.php:358
+msgid "Trip Advisor"
+msgstr ""
+
+#: ../library/enum.php:359
+msgid "Tumblr"
+msgstr ""
+
+#: ../library/enum.php:360
+msgid "Twitch"
+msgstr ""
+
+#: ../library/enum.php:361
+msgid "Twitter"
+msgstr ""
+
+#: ../library/enum.php:362
+msgid "Viadeo"
+msgstr ""
+
+#: ../library/enum.php:363
+msgid "Vimeo"
+msgstr ""
+
+#: ../library/enum.php:364
+msgid "VK"
+msgstr ""
+
+#: ../library/enum.php:365
+msgid "Wikipedia"
+msgstr ""
+
+#: ../library/enum.php:366
+msgid "Windows"
+msgstr ""
+
+#: ../library/enum.php:367
+msgid "WordPress"
+msgstr ""
+
+#: ../library/enum.php:368
+msgid "Xing"
+msgstr ""
+
+#: ../library/enum.php:369
+msgid "Y Combinator"
+msgstr ""
+
+#: ../library/enum.php:370
+msgid "Yelp"
+msgstr ""
+
+#: ../library/enum.php:371
+msgid "Youtube"
+msgstr ""
+
+#: ../library/enum.php:395
+msgid "Font Icons"
+msgstr ""
+
+#: ../library/enum.php:396
+msgid "Brands"
+msgstr ""
+
+#: ../library/filters.php:109
+msgid "Category: "
+msgstr ""
+
+#: ../library/filters.php:112
+msgid "Tag: "
+msgstr ""
+
+#: ../library/filters.php:118
+msgid "Author: "
+msgstr ""
+
+#: ../library/filters.php:121
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: ../library/filters.php:124
+msgid "Archives: "
+msgstr ""
+
+#: ../library/filters.php:130
+#, php-format
+msgid "(Page %s)"
+msgstr ""
+
+#: ../library/filters.php:171
+msgid "(Untitled)"
+msgstr ""
+
+#: ../library/template.php:171
+msgid "https://wordpress.org"
+msgstr ""
+
+#: ../library/template.php:191
+#: ../library/template.php:211
+#, php-format
+msgid "%s WordPress Theme"
+msgstr ""
+
+#: ../library/template.php:341
+msgid "queries."
+msgstr ""
+
+#: ../library/template.php:343
+msgid "seconds."
+msgstr ""
+
+#: ../library/customize/control-group.php:118
+msgid "Edit Group"
+msgstr ""
+
+#: ../library/customize/control-group.php:271
+#: ../library/customize/control-group.php:278
+#: ../library/customize/control-icon.php:113
+#: ../library/customize/control-icon.php:120
+msgid "Back"
+msgstr ""
+
+#: ../library/customize/control-icon.php:62
+msgid "Select Icon"
+msgstr ""
+
+#: ../library/customize/control-icon.php:63
+msgid "Remove Icon"
+msgstr ""
+
+#: ../library/customize/control-sortlist.php:142
+msgid "Deactivate"
+msgstr ""
+
+#: ../template-parts/archive-big.php:13
+#: ../template-parts/archive-block2.php:13
+#: ../template-parts/archive-block3.php:13
+msgid "Sticky"
+msgstr ""
+
+#: ../template-parts/comment-ping.php:10
+#: ../template-parts/comment.php:26
+msgid "Permalink"
+msgstr ""
+
+#: ../template-parts/comments-error.php:6
+#, php-format
+msgid "Comments are closed, but %1$strackbacks%2$s and pingbacks are open."
+msgstr ""
+
+#: ../template-parts/comments-error.php:13
+msgid "Comments are closed."
+msgstr ""
+
+#: ../template-parts/comments-nav.php:5
+msgid "Comments Navigation"
+msgstr ""
+
+#: ../template-parts/comments-nav.php:7
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../template-parts/comments-nav.php:11
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: ../template-parts/comments-nav.php:14
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../template-parts/error.php:8
+msgid "Nothing found"
+msgstr ""
+
+#: ../template-parts/footer-postfooter.php:13
+#, php-format
+msgid "%1$s Designed using %2$s. Powered by %3$s."
+msgstr ""
+
+#: ../template-parts/loop-nav.php:9
+msgid "Previous Post: %link"
+msgstr ""
+
+#: ../template-parts/loop-nav.php:10
+msgid "Next Post: %link"
+msgstr ""
+
+#: ../template-parts/menu-primary.php:9
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: ../template-parts/menu-primary.php:11
+#: ../template-parts/menu-secondary.php:11
+msgid "Menu"
+msgstr ""
+
+#: ../template-parts/menu-secondary.php:9
+msgid "Secondary Navigation Menu"
+msgstr ""
+
+#: ../woocommerce/functions.php:50
+msgid "Woocommerce Primary Sidebar"
+msgstr ""
+
+#: ../woocommerce/functions.php:51
+msgid "The primary sidebar for woocommerce pages."
+msgstr ""
+
+#: ../woocommerce/functions.php:57
+msgid "Woocommerce Secondary Sidebar"
+msgstr ""
+
+#: ../woocommerce/functions.php:58
+msgid "The secondary sidebar for woocommerce pages (if you are using a 3 column layout with 2 sidebars)."
+msgstr ""
+
